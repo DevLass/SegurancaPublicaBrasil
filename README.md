@@ -36,7 +36,7 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
-### 💡 Principais Insights Percebidos
+### Principais Insights Percebidos
 
 - **Uniformidade Mensal**: existe uma uniformidade na incidência criminal entre os meses.
 - **Predominância masculina**: as vítimas de crimes são majoritariamente do sexo masculino.
@@ -49,7 +49,7 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
-## 📚 Fonte dos Dados
+### Fonte dos Dados
 
 Os dados utilizados neste projeto foram obtidos do portal oficial de dados abertos do Governo Federal do Brasil:
 
