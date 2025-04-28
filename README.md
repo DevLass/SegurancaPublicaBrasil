@@ -24,11 +24,9 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 1. **Crimes por Ano e Sexo**
    - Agrupa o total de vítimas por ano, separadas por sexo (masculino e feminino).
-2. **Crimes por Estado (UF)**
-   - Total de vítimas em cada unidade federativa.
-3. **Crimes por Estado x Ano**
+2. **Crimes por Estado x Ano**
    - Gráfico de barras empilhadas: para cada estado, o total de vítimas em cada ano.
-4. **Crimes por Mês**
+3. **Crimes por Mês**
    - Total de vítimas em cada mês do ano, considerando todo o período.
 
 ---
