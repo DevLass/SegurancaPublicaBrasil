@@ -5,18 +5,6 @@ Este projeto foi desenvolvido com o objetivo de **ensinar o uso do Pandas** para
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-├── data/
-│   └── ocorrencias_criminais_sinesp_2015_2022.xlsx
-├── notebooks/
-│   └── analise_crimes_pandas.ipynb
-├── scripts/
-│   └── gerar_graficos.py
-└── README.md
-```
-
 - **data/**: contém o arquivo original de dados.
 - **notebooks/**: notebook passo a passo com explicações e código.
 - **scripts/**: script Python final com funções para gerar todos os gráficos.
