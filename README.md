@@ -49,4 +49,11 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
+## 📚 Fonte dos Dados
+
+Os dados utilizados neste projeto foram obtidos do portal oficial de dados abertos do Governo Federal do Brasil:
+
+- **Sistema Nacional de Estatísticas de Segurança Pública (SINESP)**  
+  Disponível em: [https://dados.gov.br/dados/conjuntos-dados/sistema-nacional-de-estatisticas-de-seguranca-publica](https://dados.gov.br/dados/conjuntos-dados/sistema-nacional-de-estatisticas-de-seguranca-publica)
+
 
