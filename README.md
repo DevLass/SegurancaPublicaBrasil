@@ -23,12 +23,16 @@ pip install pandas matplotlib
 Foram criados quatro gráficos principais para explorar diferentes dimensões da criminalidade:
 
 1. **Crimes por Ano e Sexo**
-![Crimes por Ano e Sexo](https://raw.githubusercontent.com/DevLass/SegurancaPublicaBrasil/main/crimesanosexo.png)
    - Agrupa o total de vítimas por ano, separadas por sexo (masculino e feminino).
+      <img src="https://raw.githubusercontent.com/DevLass/SegurancaPublicaBrasil/main/crimesanosexo.png" width="650"/>
+
 2. **Crimes por Estado x Ano**
    - Gráfico de barras empilhadas: para cada estado, o total de vítimas em cada ano.
+      <img src="https://raw.githubusercontent.com/DevLass/SegurancaPublicaBrasil/main/crimesestadoano.png" width="650"/>
+      
 3. **Crimes por Mês**
    - Total de vítimas em cada mês do ano, considerando todo o período.
+      <img src="https://raw.githubusercontent.com/DevLass/SegurancaPublicaBrasil/main/crimesmes.png" width="650"/>
 
 ---
 
