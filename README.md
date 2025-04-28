@@ -33,7 +33,7 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
-## 💡 Principais Insights
+## Principais Insights Percebidos
 
 - **Bahia como o local mais perigoso**: o estado da Bahia lidera o número de vítimas no período analisado.
 - **2017 como o ano mais crítico**: registrou o maior número total de vítimas em todos os anos (2015-2022).
@@ -43,32 +43,7 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
-## 🚀 Como Reproduzir
 
-1. Clone este repositório:
-   ```bash
-git clone https://github.com/seu-usuario/analise-crimes-sinesp.git
-cd analise-crimes-sinesp
-```
-2. Instale as dependências:
-   ```bash
-pip install pandas matplotlib
-```
-3. Execute o notebook ou o script:
-   - **Notebook**: abra `notebooks/analise_crimes_pandas.ipynb` e execute célula a célula.
-   - **Script**: rode o script Python:
-     ```bash
-python scripts/gerar_graficos.py
-```
-4. Confira as figuras geradas na pasta `output/`.
-
----
-
-## 🤝 Contribuições
-
-Pull requests são bem-vindos! Sinta-se à vontade para abrir issues ou sugerir melhorias.
-
----
 
 ## 📄 Licença
 
