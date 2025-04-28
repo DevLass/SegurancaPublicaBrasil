@@ -18,7 +18,7 @@ pip install pandas matplotlib
 
 ---
 
-## 🔍 Descrição das Análises
+## Descrição das Análises
 
 Foram criados quatro gráficos principais para explorar diferentes dimensões da criminalidade:
 
