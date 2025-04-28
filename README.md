@@ -18,7 +18,7 @@ pip install pandas matplotlib
 
 ---
 
-## Descrição das Análises
+### Descrição das Análises
 
 Foram criados quatro gráficos principais para explorar diferentes dimensões da criminalidade:
 
@@ -33,7 +33,7 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
-## Principais Insights Percebidos
+### Principais Insights Percebidos
 
 - **Bahia como o local mais perigoso**: o estado da Bahia lidera o número de vítimas no período analisado.
 - **2017 como o ano mais crítico**: registrou o maior número total de vítimas em todos os anos (2015-2022).
@@ -43,10 +43,4 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ---
 
-
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
 
