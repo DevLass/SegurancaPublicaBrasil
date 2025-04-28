@@ -38,11 +38,14 @@ Foram criados quatro gráficos principais para explorar diferentes dimensões da
 
 ### 💡 Principais Insights Percebidos
 
-- **Bahia como o local mais perigoso**: o estado da Bahia lidera o número de vítimas no período analisado.
-- **2017 como o ano mais crítico**: registrou o maior número total de vítimas em todos os anos (2015-2022).
-- **Queda em 2020**: observou-se uma redução significativa em 2020, possivelmente reflexo de restrições de mobilidade durante a pandemia.
-- **Retomada em 2021**: após a queda, os números voltam a subir em 2021.
+- **Uniformidade Mensal**: existe uma uniformidade na incidência criminal entre os meses.
 - **Predominância masculina**: as vítimas de crimes são majoritariamente do sexo masculino.
+- **Bahia como o local mais perigoso**: o estado da Bahia lidera o número de vítimas no período analisado.
+- **Tendências Temporais (2015-2022):**
+  - **2017 como o ano mais crítico:** registrou o maior número total de vítimas no período analisado.
+  - **Queda em 2020:** observou-se uma redução significativa no número de vítimas, possivelmente reflexo das restrições de mobilidade impostas pela pandemia.
+  - **Retomada em 2021:** após a queda em 2020, os números voltam a subir no ano seguinte, indicando uma recuperação nos índices de criminalidade.
+
 
 ---
 
