@@ -1,17 +1,7 @@
 ```markdown
 # Análise de Ocorrências Criminais (2015-2022)
 
-Este projeto foi desenvolvido com o objetivo de **ensinar o uso do Pandas** para um amigo.
-Utilizando a base de dados **Ocorrências Criminais - SINESP (2015-2022)**.
-Durante o processo, além de exercitar técnicas de manipulação, filtragem e visualização,
-descobrimos insights surpreendentes sobre a criminalidade no Brasil.
-
----
-
-- **data/**: contém o arquivo original de dados.
-- **notebooks/**: notebook passo a passo com explicações e código.
-- **scripts/**: script Python final com funções para gerar todos os gráficos.
-- **README.md**: este arquivo de documentação.
+Este projeto foi desenvolvido com o objetivo de **ensinar o uso do Pandas** para um amigo. Utilizando a base de dados **Ocorrências Criminais - SINESP (2015-2022)**. Durante o processo, além de exercitar técnicas de manipulação, filtragem e visualização, descobrimos insights surpreendentes sobre a criminalidade no Brasil.
 
 ---
 
